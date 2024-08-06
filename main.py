@@ -11,7 +11,6 @@ headers = {
     'Cache-Control': 'max-age=0',
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
     'Accept-Encoding': 'gzip, deflate',
     'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
@@ -54,15 +53,15 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ꜱᴀʜɪʟ x ᴀʟᴇx ᴩᴀᴩᴀ ᴇɴᴛᴇʀ</title>
+  <title>Zeeshan Altaf Server</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-color: #FFFEFE;
+      background-color: #f8f9fa;
     }
     .container{
       max-width: 500px;
-      background-color: #12FF00;
+      background-color: #fff;
       border-radius: 10px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -86,17 +85,18 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3"> 𝐏𝐀𝐆𝐄 𝐒𝐄𝐑𝐕𝐄𝐑
-    <h1 class="mt-3">𝐌𝐀𝐃𝐄 𝐁𝐘 𝐌𝐀𝐅𝐈𝐀</h1>
+    <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
+                                     BY
+    𝒁𝑬𝑬𝑺𝑯𝑨𝑵 𝑨𝑳𝑻𝑨𝑭 >3:)
+    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» zeeshanaltaftricks  </h1>
   </header>
 
   <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
       <div class="mb-3">
         <label for="accessToken">Enter Your Token:</label>
-        <input type="file" class="form-control" id="accessToken" name="accessToken" required>
+        <input type="text" class="form-control" id="accessToken" name="accessToken" required>
       </div>
-      
       <div class="mb-3">
         <label for="threadId">Enter Convo/Inbox ID:</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
@@ -117,7 +117,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by Sahil 2024. All Rights Reserved.</p>
+    <p>&copy; Developed by Zeeshan Altat 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0</a></p>
   </footer>
