@@ -53,7 +53,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MAFIA DOWN SERVER</title>
+  <title>𝐎𝐅𝐋𝐈𝐍3 𝐒3𝐑𝐕3𝐑</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -85,10 +85,8 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
-                                     BY
-    𝗦𝗔𝗛𝗜𝗟 𝗫 𝗠𝗔𝗙𝗜𝗔 >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|𝗜_____𝐒𝐀𝐇𝐈𝐋 𝐃𝐀𝐑𝐈𝐍𝐃𝐀 🩵  </h1>
+    <h1 class="mb-3">ᴄʜᴀʟᴀ ʟᴇ ʙʜᴏꜱᴅɪᴋᴇ
+    <h1 class="mt-3">𝐌9𝐃3 𝐁𝐘 𝐌9𝐅𝐈9 </h1>
   </header>
 
   <div class="container">
@@ -117,7 +115,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by Sahil 2024. All Rights Reserved.</p>
+    <p>&copy; Developed by 𝐒𝐀𝐇𝐈𝐋 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0</a></p>
   </footer>
