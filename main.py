@@ -46,7 +46,7 @@ def send_message():
                 time.sleep(30)
 
 
-    rreturn '''
+    return '''
 
 <!DOCTYPE html>
 <html lang="en">
@@ -57,11 +57,11 @@ def send_message():
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-color: #f8f9fa;
+      background-color: #FFFEFE;
     }
     .container{
       max-width: 500px;
-      background-color: #fff;
+      background-color: #12FF00;
       border-radius: 10px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
