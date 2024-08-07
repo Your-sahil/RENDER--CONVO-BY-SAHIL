@@ -61,7 +61,7 @@ def send_message():
     }
     .container{
       max-width: 500px;
-      background-color: #fff;
+      background-color: #FC000E;
       border-radius: 10px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -85,10 +85,8 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
-                                     BY
-    𝒁𝑬𝑬𝑺𝑯𝑨𝑵 𝑨𝑳𝑻𝑨𝑭 >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» zeeshanaltaftricks  </h1>
+    <h1 class="mb-3"> 𝘊𝘖𝘕𝘝𝘖 𝘗𝘈𝘎𝘌 𝘚𝘌𝘙𝘝𝘌𝘙 
+    <h1 class="mt-3">𝐌𝐀𝐃𝐄 𝐁𝐘 𝐒𝐀𝐇𝐈𝐋 </h1>
   </header>
 
   <div class="container">
@@ -117,7 +115,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by Zeeshan Altat 2024. All Rights Reserved.</p>
+    <p>&copy; ᴅᴇᴠᴇʟᴩᴇᴅ ʙʏ ꜱᴀʜɪʟ 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0</a></p>
   </footer>
